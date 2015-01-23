@@ -4,14 +4,14 @@
 
 A living full-stack framework for the web. 
 
-## Why *flow*?
+## This repository is only history
 
-There are plenty of stacks available for the web -- and yet there is none that really sticks to *intuition*, *discovery* and *personal mastery* for the modern web. 
+###Official repo is in http://github.com/flow-stack/flow
 
-There is technology that was [designed with those principles](http://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html) as premises and that's why flow embraces [Smalltalk](http://en.wikipedia.org/wiki/Smalltalk). With [Amber](http://amber-lang.net/) taking care of html5 and doing everything in the browser, and [Pharo](http://pharo.org/) being incredibly productive in the backend, this stack is an answer to that call. 
+This framework is maintained in its own community driven organization here:
 
+https://github.com/flow-stack/flow
 
-## What is *flow*?
 
 Flow is an open-source project with a *mission*. 
 
@@ -104,3 +104,5 @@ Also we're documenting in the wiki [here](https://github.com/sebastianconcept/fl
 ____
 
 MIT - License
+=======
+Sebastian Sastre - 2015
